@@ -1,0 +1,103 @@
+{
+
+  "Home": {
+  "News": {
+    "Projects": [
+      "Soft Robotics - Jelly Fish",
+      "Use of Robot Operating System (ROS)",
+      "Spherical Robot",
+      "Meta Limbs",
+      "Self Balancing Cube",
+      "Jumping Robot",
+      "Rope Climbing Robot",
+      "Wall Climbing Robot",
+      "All Terrain Robot",
+      "Automatic Floor Cleaning Robot",
+      "Electronics Voting Machine"
+    ],
+    "Notices": [
+      "National Robocon 2020: Judge's Special Award",
+      "National Robocon 2019: 2nd Runner-Up in MathWorks Modeling Award",
+      "National Robocon 2018: Best Aesthetic Robot Award",
+      "ABU Robocon 2017 - Tokyo: Nagase Awards, Best Lovely Robot Award",
+      "National Robocon 2017: Winners of National Robocon, Fastest Task Completing Robot Award, Best Idea Award, Winner - Matlab Simulation Award",
+      "National Robocon 2016: 1st Runner-up, Fastest Task Completing Robot Award, Best Manual Robot Operator Award"
+    ],
+    "Activities": [
+      "Representing COEP in the prestigious National Robotics Competition - Robocon.",
+      "Conducting seminars under The Robotics Society (TRS).",
+      "Workshops for FY students.",
+      "Organizing Robotics events in MindSpark.",
+      "Participating in robotics events at IIT B TechFest, MindSpark.",
+      "Building mini-projects and B.Tech projects in robotics and automation.",
+      "Presenting research papers at IEEE conferences and Patents."
+    ]
+  }
+},
+
+  "Organising": {
+    "FTC": {
+      "imageArray": [
+        "https://www.coeprobotics.com/assets/Organizing/FTC/FTC-4.jpg",
+        "https://www.coeprobotics.com/assets/Organizing/FTC/FTC-1.jpg",
+        "https://www.coeprobotics.com/assets/Organizing/FTC/FTC-5.jpg"
+      ],
+      "sections": [
+        {
+          "title": "About FTC India",
+          "content": "FTC India (FIRST Tech Challenge India) is part of the global FIRST Tech Challenge (FTC) program, aimed at inspiring students to become future leaders in science, technology, engineering, and mathematics (STEM). It provides students from grades 7 to 12 with a platform to design, build, and program robots that compete in exciting head-to-head challenges."
+        },
+        {
+          "title": "Primary Objectives",
+          "content": "FTC India organizes robotics competitions where student teams work together to create innovative robots. These robots must complete specific tasks and challenges on a competition field. The competition follows an alliance-based format, where teams form temporary alliances and compete to score points through strategy, precision, and technical skill."
+        },
+        {
+          "title": "Activities",
+          "content": "At Robot Study Circle, we took great pride in our involvement with the First Tech Challenge (FTC), where we actively contributed as Robot and Field Inspectors and Referees. As a key partner in this prestigious event, we, along with InfinityX—a company with whom we have strong ties—served as volunteering sponsors, ensuring the smooth and efficient execution of the competition."
+        },
+        {
+          "content": "Our role extended beyond just the technical aspects of the event. We bridged connections with international teams and students, expanding the knowledge base of participants and fostering valuable relationships that enriched the global robotics community. These interactions helped us stay at the forefront of cutting-edge technology while providing our members and students with diverse perspectives from around the world."
+        },
+        {
+          "content": "In addition to our volunteer roles, we proudly hosted our own stall during the event, where we showcased our latest robotics innovations, shared insights into new technologies, and provided live demonstrations of the robots we had developed. Our participation in FTC was not only an opportunity to contribute to the competition's success but also a platform for us to share our passion for robotics with the larger community and inspire the next generation of engineers and innovators."
+        }
+      ]
+    },
+    "Social Outreach": {
+      "imageArray": [
+        "https://www.coeprobotics.com/assets/Organizing/Soical Outreach/Picture1.jpg",
+        "https://www.coeprobotics.com/assets/Organizing/Soical Outreach/Picture2.jpg",
+        "https://www.coeprobotics.com/assets/Organizing/Soical Outreach/Picture3.jpg",
+        "https://www.coeprobotics.com/assets/Organizing/Soical Outreach/Picture4.jpg",
+        "https://www.coeprobotics.com/assets/Organizing/Soical Outreach/Picture5.jpg",
+        "https://www.coeprobotics.com/assets/Organizing/Soical Outreach/Picture6.jpg"
+      ],
+      "sections": [
+        {
+          "title": "Community Outreach Program – Mangaon, Raigad",
+          "date": "October 15th, 2022",
+          "location": "Mangaon, Raigad",
+          "image": "https://www.coeprobotics.com/assets/Organizing/Soical Outreach/Picture1.jpg",
+          "content": "A transformative initiative to bridge technological gaps in rural communities:\n Collaborated with NSS at COEP\n Demonstrated advanced robots: NAO-6 humanoid, RoboSapien, Genibo\n Provided hands-on interaction with cutting-edge robotics\n Inspired local students about potential of AI and robotics\n Connected technical community with rural areas",
+          "facilitators": "Koustubh Anturkar\nChinmay Patil\nAyush Amborkar\nAtharv Neglur"
+        },
+        {
+          "title": "Mathematics Day Robotics Demonstration",
+          "date": "December 22nd, 2022",
+          "location": "COEP",
+          "image": "https://www.coeprobotics.com/assets/Organizing/Soical Outreach/Picture2.jpg",
+          "content": "Exploring the intersection of mathematics and robotics:\n Showcased NAO humanoid robot, Genibo robot, and Drone\n Demonstrated mathematical principles in robotics\n Highlighted applications in various industries\n Inspired students to explore STEM careers\n Provided interactive learning experience",
+          "facilitators": "Ayush Amborkar\nAtharv Neglur"
+        },
+        {
+          "title": "Electronics and Robotics Workshops",
+          "date": "June-July 2024",
+          "location": "Camp Education Society School",
+          "image": "https://www.coeprobotics.com/assets/Organizing/Soical Outreach/Picture3.jpg",
+          "content": "Empowering 9th and 10th-grade students with technological knowledge:\n Conducted 2-3 weekly sessions\n Covered electronics and robotics fundamentals\n Provided hands-on learning experiences\n Introduced sensor-based applications\n Motivated students towards STEM disciplines",
+          "facilitators": "Tejas Nirwan\nLaya Kshetrapal\nKavish Patil\nSaatvika Udayakumar\nDhiraj Patil"
+        }
+      ]
+    }
+  }
+}
